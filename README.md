@@ -1,2 +1,2 @@
-# pit_lake
+# pitlakes
 #OPEN
